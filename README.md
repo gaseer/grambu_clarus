@@ -1,4 +1,4 @@
 # grambu_clarus
-first clarus project from GRABOO
+first clarus project from GRAMBOO
 
 
